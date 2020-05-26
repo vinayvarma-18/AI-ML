@@ -2,3 +2,4 @@ AIandMl
 DS
 AP
 basics
+python is easy
